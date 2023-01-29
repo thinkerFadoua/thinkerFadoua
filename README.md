@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thinkerFadoua
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on python learning
+- 💞️ I’m looking to collaborate on Test Automation with Java and Selenium
 - 📫 How to reach me? by sending me an email at fboualem@gmail.com
 
 <!---
